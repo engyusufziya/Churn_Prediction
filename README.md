@@ -1,4 +1,4 @@
-# Banking Customer Churn Prediction
+# Banking Customer Churn Prediction🏦
 
 A comprehensive machine learning solution for predicting customer churn in banking/credit card services, featuring advanced feature engineering, model comparison, hyperparameter optimization, and segment-based threshold strategies.
 
