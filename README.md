@@ -258,6 +258,4 @@ To extend this project:
 3. Extend threshold strategies in `apply_hybrid_thresholds()`
 4. Add new evaluation metrics to `metrics_from_preds()`
 
-## License
 
-This project is designed for banking and financial services customer retention analysis. Ensure compliance with data privacy regulations and internal policies when handling customer data.
